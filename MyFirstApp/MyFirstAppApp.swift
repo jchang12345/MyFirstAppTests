@@ -11,6 +11,7 @@ import SwiftUI
 struct MyFirstAppApp: App {
     var body: some Scene {
         WindowGroup {
+            //my first test comment and commit just to checkerino it outerino
             ContentView()
         }
     }
